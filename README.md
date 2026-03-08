@@ -60,3 +60,5 @@ Data Analyst
 
 ## 📷 Screenshots:
 ![Overview](https://github.com/iamsubhurawat/Airbnb/blob/main/Overview.png)
+![Ratings](https://github.com/iamsubhurawat/Airbnb/blob/main/Ratings.png)
+![Reviews](https://github.com/iamsubhurawat/Airbnb/blob/main/Reviews.png)
