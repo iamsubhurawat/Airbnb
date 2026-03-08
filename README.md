@@ -1,10 +1,10 @@
-#🏡 Global Airbnb Performance Dashboard
+# 🏡 Global Airbnb Performance Dashboard
 
 
 Power BI Data Analytics Project
 
 
-📊 ##Project Story
+## 📊 Project Story
 
 Airbnb transformed the global travel industry by allowing anyone to become a host and any space to become a destination. But behind that transformation lies an important question:
 Where is Airbnb growing, what drives its success, and how do traveler behaviors change across cities and seasons?
@@ -14,7 +14,7 @@ Rather than simply visualizing numbers, this project focuses on telling the stor
 Dataset source: Maven Analytics
 
 
-🎯 ##Project Goals
+## 🎯 Project Goals
 
 This dashboard was designed to answer key business questions:
 • How did Airbnb grow over time and when did growth slow down?
@@ -25,7 +25,7 @@ This dashboard was designed to answer key business questions:
 • How does travel demand fluctuate across the year?
 
 
-📈 ##The Growth Story of Airbnb
+## 📈 The Growth Story of Airbnb
 
 Airbnb’s journey follows a clear startup lifecycle pattern.
 The platform experienced rapid expansion between 2012 and 2015, culminating in its largest spike in new listings in 2015. This period represents Airbnb’s breakthrough as the sharing economy gained global adoption.
@@ -35,14 +35,14 @@ The market then stabilized before experiencing another disruption during the COV
 This lifecycle highlights how external factors such as regulation and global crises directly influence platform growth.
 
 
-🛠 ##Tools Used
+## 🛠 Tools Used
 
 • Power BI – Dashboard design and interactive visualization
 • Power Query – Data cleaning and transformation
 • Data Modeling – Relationship building and calculated measures
 
 
-📊 ##Key Insights
+## 📊 Key Insights
 
 • Airbnb experienced its strongest growth between 2012–2015
 • Paris is the largest Airbnb market in the dataset
@@ -52,10 +52,10 @@ This lifecycle highlights how external factors such as regulation and global cri
 • European cities peak in summer, while New York peaks during the holiday season
 
 
-👤 ##Author
+## 👤 Author
 
 Sourav Rawat
 Data Analyst
 
 
-📷 ##Screenshots:
+## 📷 Screenshots:
